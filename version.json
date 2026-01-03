@@ -1,8 +1,8 @@
 {
     "version": "1.0",
-    "zip_url": "https://github.com/username/StarX/releases/latest/download/StarX.zip",
-    "exe_url": "https://github.com/username/StarX/releases/latest/download/StarX.exe",
-    "icon_url": "https://github.com/username/StarX/releases/latest/download/starx.ico",
+    "zip_url": "https://github.com/zxczxc39/StarX/releases/latest/download/StarX.zip",
+    "exe_url": "https://github.com/zxczxc39/StarX/releases/latest/download/StarX.exe",
+    "icon_url": "https://github.com/zxczxc39/StarX/releases/latest/download/starx.ico",
     "installer_version": "1.0",
     "installer_url": "https://github.com/zxczxc39/StarXInstaller/releases/latest/download/StarXInstaller.exe"
 }
